@@ -30,13 +30,16 @@ O objetivo é praticar conceitos fundamentais de **POO em Java** — abstração
 ---
 
 ## 📂 Estrutura do Projeto
+
+```text
 src/
 └── br/com/dio/desafio/dominio/
-├── Conteudo.java
-├── Curso.java
-├── Mentoria.java
-├── Bootcamp.java
-└── Dev.java
+    ├── Conteudo.java
+    ├── Curso.java
+    ├── Mentoria.java
+    ├── Bootcamp.java
+    └── Dev.java
+````
 
 
 ---
